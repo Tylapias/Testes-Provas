@@ -1,0 +1,12 @@
+{
+  "name": "teste-prova1",
+  "version": "1.0.0",
+  "description": "Testes automatizados com Cypress",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
